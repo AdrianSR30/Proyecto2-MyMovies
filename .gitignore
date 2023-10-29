@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#tailwindcss
+tailwindcss
+output.css
+
 # Distribution / packaging
 .Python
 build/
